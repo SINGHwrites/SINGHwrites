@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SINGHwrites
 - 👀 I’m interested in Machine Learning and Data Science 
 - 🌱 I’m currently learning Deep Learning 
-- 💞️ I’m looking to collaborate on projects related to data science, artificial intelligence, machine learning and deep learning 
+- 🏗️ I’m looking to collaborate on projects related to data science, artificial intelligence, machine learning and deep learning 
 - 📫 How to reach me 
 
 <!---
