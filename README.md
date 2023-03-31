@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Deep Learning 
 - 🏗️ I’m looking to collaborate on projects related to data science, artificial intelligence, machine learning and deep learning 
 ### 📫 Reach me at
-- LINKEDIN - www.linkedin.com/in/beerpal-singh-AiML
+- LINKEDIN - www.linkedin.com/in/beerpalsingh
 - TABLAEU -  https://public.tableau.com/app/profile/beerpal.singh
 - GOOGLE CLOUD - https://www.cloudskillsboost.google/public_profiles/bbe772e5-5b2c-4bc0-8edb-72ecf22d1353
 
