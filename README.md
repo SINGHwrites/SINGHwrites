@@ -1,6 +1,6 @@
 👋 Hi, I’m @SINGHwrites
-- 👀 I’m interested in Machine Learning and Data Science 
-- 🏗️ I’m looking to collaborate on projects related to data science, artificial intelligence, machine learning and deep learning 
+- 👀 Data Science
+- 🏗️ Focused
 ### 📫 Reach me at
 - LINKEDIN - www.linkedin.com/in/beerpalsingh
 - TABLAEU -  https://public.tableau.com/app/profile/beerpal.singh
