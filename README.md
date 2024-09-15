@@ -1,5 +1,5 @@
-👋 Hi, I’m @SINGHwrites
-- 👀 Data Science
+👋 Hi, I’m Beerpal Singh
+- 👀 Data Science Student
 - 🏗️ Focused
 ### 📫 Reach me at
 - LINKEDIN - www.linkedin.com/in/beerpalsingh
