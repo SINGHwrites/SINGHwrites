@@ -1,6 +1,5 @@
 👋 Hi, I’m Beerpal Singh
-- 👀 Data Science Student
-- 🏗️ Focused
+
 ### 📫 Reach me at
 - LINKEDIN - www.linkedin.com/in/beerpalsingh
 - TABLAEU -  https://public.tableau.com/app/profile/beerpal.singh
